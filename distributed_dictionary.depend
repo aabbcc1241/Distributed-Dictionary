@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1452345305 source:/home/beenotung/.git/workspace/distributed_dictionary/src/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdbool.h>
+
